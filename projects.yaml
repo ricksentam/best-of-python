@@ -68,6 +68,14 @@ labels:
   #   description: "Best-of list with Python projects"
 
 projects:
+<<<<<<< HEAD
+=======
+  - name: caer
+    github_id: ml-tooling/best-of-ml-python
+    description: "A lightweight, scalable Computer Vision library. Scale your models, not boilerplate."
+    resource: True
+    category: computer-vision
+>>>>>>> parent of b8b2a7b (Update description)
   - name: best-of-web-python - Web UI
     github_id: ml-tooling/best-of-web-python
     description: "Collection of libraries to implement web-based UIs."
